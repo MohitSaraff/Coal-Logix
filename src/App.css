@@ -1,0 +1,11 @@
+.mapboxgl-canvas {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.mapboxgl-ctrl-logo {
+  display: none !important;
+}
