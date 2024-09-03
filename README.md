@@ -57,12 +57,4 @@ To get started with this project, follow these steps:
 
 This project is not licensed.
 
-## Contact
-
-If you have any questions or need further information, please feel free to contact us:
-
-- **Discord**: [
-    Team 11
-    ](https://canary.discord.com/channels/1146024008777748583/1151031918125658113)
-
 Happy visualizing! 🚚🏭🌏
